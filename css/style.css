@@ -1,0 +1,32 @@
+.container{
+	background-color: rgba(211,252,251,0.7);
+	width: 280px;
+}
+body{
+	background-image: url(bg7.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+img{
+	border-radius: 50px;
+}
+input{
+	color: black;
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px solid black;
+	outline: 0;
+}
+.form{
+	display: none;
+}
+.icon1{
+	color: green;
+	cursor: pointer;
+}
+.button{
+	background-color: transparent;
+	border:0;
+		margin-left: -10%;
+	outline-style: none;
+}
